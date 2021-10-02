@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tienttcao
 - 👀 I’m interested in learning how to analyze our world through data
 - 🌱 I’m currently learning SQL, advancing Microsoft Excel, learning to tell stories through visualization
-- 💞️ I’m looking to collaborate on cleaning data
+- 💞️ I’m looking to collaborate on exploring and cleaning data as my first few steps into data world
 - 📫 How to reach me tienttcao@gmail.com
 
 <!---
