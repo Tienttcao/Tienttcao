@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tienttcao
-- 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning SQL 
+- 👀 I’m interested in learning how to analyze our world through data
+- 🌱 I’m currently learning SQL, advancing Microsoft Excel, learning to tell stories through visualization
 - 💞️ I’m looking to collaborate on cleaning data
 - 📫 How to reach me tienttcao@gmail.com
 
